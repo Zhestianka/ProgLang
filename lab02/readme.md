@@ -123,7 +123,7 @@ print(*map(sum, zip(
   
 - *Идентификаторы*
   
-- print, map, sum, zip, int, input, split, i
+  print, map, sum, zip, int, input, split, i
   
 - *Литералы*
 
