@@ -136,19 +136,19 @@ print(*map(sum, zip(
 
 - *Ключевые слова*
   
-   for, in
+   *for, in*
   
 - *Идентификаторы*
   
-  print, map, sum, zip, int, input, split, i
+  *print, map, sum, zip, int, input, split, i*
   
 - *Литералы*
 
-  1, 2, 3
+  *1, 2, 3*
   
 - *Оператор*
     
-    (*)
+    *(*)*
 
 ### Вызываемые функции и параметры
 
