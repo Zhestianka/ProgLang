@@ -7,8 +7,8 @@
 Пять ключевых слов для каждого языка:
 
 - *C++* - int, return, if, while, class 
-- *Java* - int, return, if, while, class
-- *Python* - def, return, if, for, class
+- *Java* - public, return, if, void, class
+- *Python* - def, import, in, for, class
 
 ---
 
