@@ -117,10 +117,21 @@ print(*map(sum, zip(
     *[map(int, input().split()) for i in (1, 2, 3)]
 )))
 
-Ключевые слова: `for, in`.
-Идентификаторы: `print, map, sum, zip, int, input, split, i`.
-Литералы: `1, 2, 3`.
-Оператор: `*`.
+- *Ключевые слова*
+  
+   for, in
+  
+- *Идентификаторы*
+  
+- print, map, sum, zip, int, input, split, i
+  
+- *Литералы*
+
+  1, 2, 3
+  
+- *Оператор*
+    
+    *
 
 - `i` — переменная цикла
 - `print` — функция вывода
