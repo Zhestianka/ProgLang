@@ -110,7 +110,7 @@ int main() {
 
 **Java:**
 ```java
-public class Main2 {
+public class Main {
     public static void main(String[] args) {
         boolean n = true;
         int b = 100;
@@ -139,7 +139,7 @@ int main() {
 
 **Java:**
 ```java
-public class Main3 {
+public class Main {
     public static void main(String[] args) {
         double pi = 3.14159;
         int a = pi;
