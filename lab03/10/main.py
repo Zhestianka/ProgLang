@@ -1,6 +1,6 @@
 text = input("Введите строку: ")
 
 if text:
-    print("Строка считается True")
+    print("True")
 else:
-    print("Строка считается False")
+    print("False")
