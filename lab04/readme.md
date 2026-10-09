@@ -188,7 +188,7 @@ print(y)
 
 Разложим 1000 по степеням двойки: 1000 = 512 + 256 + 128 + 64 + 32 + 8
 
-![](https://github.com/Zhestianka/ProgLang/tree/main/lab04/07)
+![7](https://github.com/Zhestianka/ProgLang/tree/main/lab04/07)
 
 ---
 
